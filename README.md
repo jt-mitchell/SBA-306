@@ -1,4 +1,6 @@
-# AD - SBA - Core Java/Hibernate/JUnit - Learner Version
+# SBA-306
+#  Core Java/Hibernate/JUnit 
+
 
 ## School Management System
 ### Business Requirement:
@@ -12,9 +14,6 @@ Valid students are able to see the courses they are registered for.
 Valid students are able to register for any course in the system as
 long as they are not already registered.
 
-### Submission Guideline
-After completing all of the tasks or requirements, show it to the instructor and convert your project into a zip file. Upload the zip file to Canvas. 
-**(NOTE: Do not upload / push on github)**
 
 
 ### Maven Project Requirements:
@@ -29,15 +28,7 @@ After completing all of the tasks or requirements, show it to the instructor and
 - [Junit platform suite](https://mvnrepository.com/artifact/org.junit.platform/junit-platform-suite-engine)
 - [Junit platform runner](https://mvnrepository.com/artifact/org.junit.platform/junit-platform-runner)
 
-### Demonstration to clone GitHub repository
-- click on `<> Code`
-![clone_image](images/clone.png)
-- Select HTTPS tab and copy the url 
-- Open Git Bash and change the working directory to the location where you want the project clone directory.
-- Type:  git clone and paste the url you copied earlier
-- Example:  git clone https://github.com/platformps/AD-SBA-CoreJava-Hibernate-JUnit-Learner.git
-- This action will copy an existing Git repository from the owner account into your current local directory. Your copy is completely isolated from the  original repository giving you the ability work on the newly cloned 
-- project independently.  [More about clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
 #### Requirement 1 - Models:
 In the Project you have two **Model** classes named **Student.java** and **Course.java** under **Model** package.
 Each Model class **requires**: 
