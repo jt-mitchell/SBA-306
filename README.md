@@ -95,8 +95,4 @@ implement interfaces:
 #### Requirement 5 - JUnit:
 - Write at least one junit test
 ---
-#### Project Tree example
-![project_tree](images/project_tree.png)
 
-#### Workflow example
-![workflow example](images/example.png)
